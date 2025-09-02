@@ -1,6 +1,6 @@
 Name:		python-proton-core
 Version:	0.4.0
-Release:	2
+Release:	3
 URL: https://github.com/ProtonVPN/python-proton-core
 Source0: https://github.com/ProtonVPN/python-proton-core/archive/refs/tags/v%{version}.tar.gz
 Summary:	The proton-core component contains core logic used by other Proton components.
